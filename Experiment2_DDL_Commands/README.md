@@ -105,15 +105,17 @@ CREATE TABLE Table_Name (
 
 **Question 1**
 --
--- Paste Question 1 here
-
+-- Paste Question 1 here        
 ```sql
 -- Paste your SQL code below for Question 1
 ```
+![Screenshot 2025-05-03 112823](https://github.com/user-attachments/assets/b665ba87-5784-42b2-964a-377be8223f40)
+
 
 **Output:**
+![Screenshot 2025-05-03 112932](https://github.com/user-attachments/assets/97faab22-bd5f-4949-a66b-2af943ab6ea0)
 
-![Output1](output.png)
+
 
 **Question 2**
 ---
@@ -121,11 +123,15 @@ CREATE TABLE Table_Name (
 
 ```sql
 -- Paste your SQL code below for Question 2
-```
+![Screenshot 2025-05-03 113019](https://github.com/user-attachments/assets/ecc5a2e2-8a7f-42f2-a73f-bb6e2602a5b4)
+
+
 
 **Output:**
+![Screenshot 2025-05-03 113110](https://github.com/user-attachments/assets/5a06389c-ff45-44d8-94e5-2733c14d0ca1)
 
-![Output2](output.png)
+
+
 
 **Question 3**
 ---
@@ -135,9 +141,12 @@ CREATE TABLE Table_Name (
 -- Paste your SQL code below for Question 3
 ```
 
-**Output:**
+![Screenshot 2025-05-03 113209](https://github.com/user-attachments/assets/b7259ad0-cfbf-4947-bc1a-1de81634fe7a)
 
-![Output3](output.png)
+
+
+**Output:**
+![Screenshot 2025-05-03 113227](https://github.com/user-attachments/assets/874e1b6e-a4c2-47b4-ad0b-e84389d5bb8c)
 
 **Question 4**
 ---
@@ -147,9 +156,15 @@ CREATE TABLE Table_Name (
 -- Paste your SQL code below for Question 4
 ```
 
-**Output:**
+![Screenshot 2025-05-03 113446](https://github.com/user-attachments/assets/55f1888e-df62-48de-9232-2e7dd02671c5)
 
-![Output4](output.png)
+**Output:**
+![Screenshot 2025-05-03 113505](https://github.com/user-attachments/assets/8760dd6e-d87d-414e-a8c0-460f22fb6bba)
+
+
+
+
+
 
 **Question 5**
 ---
@@ -158,10 +173,13 @@ CREATE TABLE Table_Name (
 ```sql
 -- Paste your SQL code below for Question 5
 ```
+![Screenshot 2025-05-03 113615](https://github.com/user-attachments/assets/b62d1b1a-e6d7-4fe7-b490-531f4706e8b7)
+
 
 **Output:**
 
-![Output5](output.png)
+![Screenshot 2025-05-03 113632](https://github.com/user-attachments/assets/186dc460-bafa-4cd4-800d-05da1befdf42)
+
 
 **Question 6**
 ---
@@ -170,10 +188,10 @@ CREATE TABLE Table_Name (
 ```sql
 -- Paste your SQL code below for Question 6
 ```
+![Screenshot 2025-05-03 114223](https://github.com/user-attachments/assets/d3f03aa5-25fd-4688-af5b-3871b470ce91)
 
 **Output:**
 
-![Output6](output.png)
 
 **Question 7**
 ---
@@ -182,10 +200,14 @@ CREATE TABLE Table_Name (
 ```sql
 -- Paste your SQL code below for Question 7
 ```
+![Screenshot 2025-05-03 113911](https://github.com/user-attachments/assets/182fd346-7ce0-4c03-bfa7-c9b364a444a7)
+
 
 **Output:**
 
-![Output7](output.png)
+
+![Screenshot 2025-05-03 113925](https://github.com/user-attachments/assets/922edf92-e5fd-4619-a44d-5c01738080fe)
+
 
 **Question 8**
 ---
@@ -195,9 +217,14 @@ CREATE TABLE Table_Name (
 -- Paste your SQL code below for Question 8
 ```
 
+![Screenshot 2025-05-03 114101](https://github.com/user-attachments/assets/6dd56983-0e5c-4bab-9d04-8ac9fa5c37a3)
+
+
+
 **Output:**
 
-![Output8](output.png)
+![Screenshot 2025-05-03 114113](https://github.com/user-attachments/assets/49aeb441-f1bf-4a19-ac69-933a7e7c7669)
+
 
 **Question 9**
 ---
@@ -206,22 +233,24 @@ CREATE TABLE Table_Name (
 ```sql
 -- Paste your SQL code below for Question 9
 ```
+![Screenshot 2025-05-03 112617](https://github.com/user-attachments/assets/b818adb5-932d-4f63-a1eb-091934485809)
+
 
 **Output:**
+![Screenshot 2025-05-03 112650](https://github.com/user-attachments/assets/f6610ea1-7ffa-4452-a191-5649880d7de8)
 
-![Output9](output.png)
+
 
 **Question 10**
 ---
--- Paste Question 10 here
+![Screenshot 2025-05-03 112341](https://github.com/user-attachments/assets/8ef26b70-7606-4855-9b53-0fcd0bcef256)
 
-```sql
--- Paste your SQL code below for Question 10
-```
 
 **Output:**
+![Screenshot 2025-05-03 112523](https://github.com/user-attachments/assets/e3f585fd-fbe5-4116-9564-8d43d51b82ba)
 
-![Output10](output.png)
+
+
 
 
 ## RESULT
